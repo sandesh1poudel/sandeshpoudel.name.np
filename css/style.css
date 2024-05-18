@@ -1603,6 +1603,12 @@ a:focus {
 
 @media (max-width: 385px) {
     .navbar .navbar-brand{
-        font-size: 30px;
+        font-size: 20px;
     }
 }
+
+/* @media (max-width: 367px) {
+    .navbar .navbar-brand{
+        font-size: 20px;
+    }
+} */
