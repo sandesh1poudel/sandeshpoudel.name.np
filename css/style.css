@@ -1578,7 +1578,7 @@ a:focus {
 @media (max-width: 575.98px) {
 
     .navbar .navbar-brand{
-        font-size: 32px;
+        font-size: 20px;
     }
 
     .footer .footer-info h2 {
@@ -1601,11 +1601,11 @@ a:focus {
 
 
 
-@media (max-width: 385px) {
+/* @media (max-width: 385px) {
     .navbar .navbar-brand{
         font-size: 20px;
     }
-}
+} */
 
 /* @media (max-width: 367px) {
     .navbar .navbar-brand{
